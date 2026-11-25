@@ -13,7 +13,10 @@ Turning Raw Data into Business Growth
 ![Building](whatI'mbuilding.png)
 
 ### 👨‍💻 About Me
-![About](about.png)
+![About](About.png)
+
+### profile
+![profile](profile.png)
 
 ### 📫 Connect
 GitHub: github.com/Rakesh543898 
