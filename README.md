@@ -1,4 +1,22 @@
-## Hi there 👋
+![Banner](banner.png)
+
+# Hi, I'm Rakesh Jatoth 👋
+![Waving](waving.png)
+
+### 📊 Data Analyst | SQL Explorer | Dashboard Builder
+Turning Raw Data into Business Growth
+
+### 🛠️ My Skills
+![Skills](skills.png)
+
+### 📈 What I'm Building
+![Building](whatI'mbuilding.png)
+
+### 👨‍💻 About Me
+![About](about.png)
+
+### 📫 Connect
+GitHub: github.com/Rakesh543898 
 
 <!--
 **Rakesh54398/Rakesh54398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
