@@ -10,7 +10,7 @@ Turning Raw Data into Business Growth
 ![Skills](skills.png)
 
 ### 📈 What I'm Building
-![Building](whatI'mbuilding.png)
+![Building](whatI'mBuilding.png)
 
 ### 👨‍💻 About Me
 ![About](About.png)
