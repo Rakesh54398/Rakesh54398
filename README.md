@@ -13,7 +13,7 @@ Turning Raw Data into Business Growth
 ![Building](whatI'mBuilding.png)
 
 ### 👨‍💻 About Me
-![About](About.png)
+![About](About.png) 
 
 ### profile
 ![profile](profile.png)
