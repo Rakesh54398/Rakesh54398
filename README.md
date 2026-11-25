@@ -19,7 +19,7 @@ Turning Raw Data into Business Growth
 ![profile](profile.png)
 
 ### 📫 Connect
-GitHub: github.com/Rakesh543898 
+GitHub: github.com/Rakesh54398
 
 <!--
 **Rakesh54398/Rakesh54398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
